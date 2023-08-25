@@ -48,5 +48,5 @@ status_label.grid(row=1, column=0, columnspan=2)
 
 tk.Button(root, text="Select Image", command=encrypt_image).grid(row=2, column=0, padx=5, pady=5)
 
-# start the main event loop
+
 root.mainloop()
