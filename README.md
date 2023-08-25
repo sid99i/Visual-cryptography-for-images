@@ -1,6 +1,6 @@
 # Image Encryption and Decryption using GUI
 
-Welcome to the repository containing Python code for image encryption and decryption with a graphical user interface (GUI). This project demonstrates the process of encrypting and decrypting images using a user-provided key.
+Welcome to the repository containing Python code for image encryption and decryption. This is a simple project to demonstrates the process of encrypting and decrypting images using a user-provided key.
 
 ## Table of Contents
 - [Introduction](#introduction)
